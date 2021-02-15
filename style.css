@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+}
+
+table{
+table-layout: fixed;
+width: 650px;
+margin-left: auto;
+margin-right: auto;
+}
+
+caption{
+
+   background-color: skyblue;
+    color: blue;
+    font-size:large;
+}
+div hr{
+height: 20px;
+width: 1200px;
+border: rgb(88, 81, 81) 2px solid;
+}
+
+
+
+
+section table{
+
+width: 1000px;
+
+
+}
+
+
+section caption{
+
+    caption-side: bottom;
+}
+
+
+section tbody{
+    border: red 4px dotted;
+
+
+
+}
+
+table {
+    border-collapse: collapse;
+  }
+  
+
+
+  p{
+width: 1200px;
+background-color: skyblue;
+text-align: center;  
+margin: auto;
+height: 50px;
+padding-top: 1.5%;
+color: blue;
+border: red 3px solid;
+}
+
+hr{
+
+width: 50%;
+
+}
